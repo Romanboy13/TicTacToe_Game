@@ -1,7 +1,9 @@
 TicTacToe_Game
 ==============
 
-A Tic-Tac-Toe Game Made with Java
+A Tic-Tac-Toe Game Made with Java.
+
+Credit / Thanks goes to Mr. Picheca for helping with the setup and completion of this project.
 
 This is my second repository added to GitHub so, again, please excuse any problems created by inexperience. 
 
